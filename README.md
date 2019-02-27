@@ -21,5 +21,5 @@ cd typestat-intro-talk
 ...and install the `typestat` npm module globally:
 
 ```shell
-npm i -g typestat
+npm i -g typestat typescript tsutils
 ```
