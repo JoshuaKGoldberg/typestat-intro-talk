@@ -5,6 +5,8 @@ This repository is the backing code source for the TypeStat talk at the TypeScri
 
 See the slides at https://docs.google.com/presentation/d/1c0wU-8LgbC9RweEfR5yc6E7zCXw34qyMNCnAvVfDTSQ/edit?usp=sharing.
 
+See the [TypeStat repository](https://github.com/JoshuaKGoldberg/TypeStat) too!
+
 ## Local Usage
 
 Clone & follow along if you’d like!
