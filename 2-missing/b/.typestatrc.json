@@ -1,0 +1,10 @@
+{
+    "fixes": {
+        "missingProperties": true,
+        "noImplicitAny": true
+    },
+    "types": {
+        "onlyPrimitives": true
+    }
+ }
+ 

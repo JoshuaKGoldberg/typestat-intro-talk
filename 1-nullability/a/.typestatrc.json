@@ -1,0 +1,11 @@
+{
+    "fixes": {
+        "incompleteTypes": true
+    },
+    "types": {
+        "matching": [
+            "^(null|undefined)$"
+        ],
+        "strictNullChecks": true
+    }
+}

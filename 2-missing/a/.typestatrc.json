@@ -1,0 +1,7 @@
+{
+    "fixes": {
+        "missingProperties": true,
+        "noImplicitAny": true
+    }
+ }
+ 

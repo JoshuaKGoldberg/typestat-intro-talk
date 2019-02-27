@@ -1,0 +1,11 @@
+{
+    "fixes": {
+        "strictNonNullAssertions": true
+    },
+    "include": [
+        "./src/**/*.test.ts"
+    ],
+    "types": {
+        "strictNullChecks": true
+    }
+}
